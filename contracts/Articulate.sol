@@ -3,7 +3,7 @@
 //Date: October 1, 2020
 
 //Articulate is a censorship-free news platform focused on preventing the spread of fake news and promoting independant journalism.
-//Learn more here: [URL]
+//Learn more here: https://manansh11.github.io/Articulate/
 
 //import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/math/SafeMath.sol";
 import "@openzeppelin/contracts/math/SafeMath.sol";
